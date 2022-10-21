@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 html,
 body {
@@ -6,4 +7,25 @@ body {
   margin: 0;
   font-family: 'Raleway', sans-serif;
   font-size: 14px;
+}
+
+body{
+  position: relative;
+  height: 100vh;
+}
+
+.title{
+  color: #333333;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  margin-top: 32px;
+  margin-bottom: 58px;
+  letter-spacing: -0.045em;
+  text-align: center;
+}
+
+.container{
+  max-width: 608px;
+  margin: 0px auto;
 }
