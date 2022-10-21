@@ -1,0 +1,47 @@
+.container{
+    align-items: center;
+    cursor: pointer;
+    display: grid;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    gap: 7px;
+    grid-template-columns: 24px auto 35px;
+    position: relative;
+    line-height: 22px;
+    margin: 0px 30px;
+    text-decoration: line-through;
+}
+
+.container + .container{
+    margin-top: 27px;
+}
+
+.checkbox {
+    border: 1px solid #828282;
+    border-radius: 4px;
+    width: 24px;
+    height: 24px;
+    position: relative;
+}
+
+.checked{
+    background-color: #2F80ED;
+    border-color: #2F80ED;
+}
+
+.iconDone{
+    width: 100%;
+}
+
+.icon{
+    height: 24px;
+    margin-right: 15px;
+}
+
+@media screen and (min-width: 768px) {
+    .container{
+        margin: 0px;
+    }
+}
