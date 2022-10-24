@@ -23,11 +23,10 @@
     content: '';
     height: 4px;
     width: 100%;
-    display: none;
 }
 
-.toggleContainer::after{
-    display: block;
+.hidden::after{
+    display: none;
 }
 
 .toggleText{
