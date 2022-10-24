@@ -27,7 +27,6 @@
 ## Build with
 
 - Next.js
-- Firebase
 - CSS3
 - Redux-toolkit
 
