@@ -9,9 +9,9 @@ body {
   font-size: 14px;
 }
 
-body{
+.body{
   position: relative;
-  height: 100vh;
+  padding-bottom: 100px;
 }
 
 .title{
@@ -26,6 +26,8 @@ body{
 }
 
 .container{
+  height: 100vh;
   max-width: 608px;
   margin: 0px auto;
+  margin-bottom: 100px;
 }
