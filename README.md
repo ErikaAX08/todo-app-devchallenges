@@ -32,7 +32,7 @@
 
 ## Contact
 
-- Website [erikaax.com](https://erikaax.com)
+- Website [erikaax.dev](https://erikaax.dev)
 - GitHub [@ErikaAX08](https://github.com/ErikaAX08)
 - Twitter [@ErikaAX08](https://twitter.com/ErikaAX08)
 - Fiverr [erikaax08](https://fiverr.com/erikaax08)
